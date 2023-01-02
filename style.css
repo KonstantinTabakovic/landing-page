@@ -471,3 +471,7 @@ position: relative;
   border-bottom: 3px solid transparent;
   border-top: 3px solid #79A70A;
 }
+
+nav.scrolled {
+  height: 80px;
+}
